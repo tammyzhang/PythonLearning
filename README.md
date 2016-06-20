@@ -10,3 +10,5 @@ Not exactly.
 
 =============================
 QSBK.py  学习python爬虫的例子，查看糗事百科帖子的小脚本
+Baidupost.py 学习python爬虫的例子，保存某一百度贴吧的帖子
+WeixinHot.py 学习python爬虫的例子，保存微信公众号热门文章列表
